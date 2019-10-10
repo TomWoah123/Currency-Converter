@@ -1,3 +1,2 @@
 # Currency-Converter
-__________________________
-## Converts dollar amount to yen
+### Converts dollar amount to yen
